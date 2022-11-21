@@ -15,5 +15,28 @@
       "name": "Wonder Woman",
       "alterEgo": "Princess Diana"
     }
+  ],
+
+  "friends": [
+    {
+      "id": 1,
+      "name": "John"
+    },
+    {
+      "id": 2,
+      "name": "Wick"
+    }
+  ],
+  "users": [
+    {
+      "id": "vishwas@example.com",
+      "channelId": "codevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "courses": ["react", "vue", "angular"]
+    }
   ]
 }
